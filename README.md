@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Installation information
 =======
@@ -26,3 +27,7 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+=======
+# MCSwarm
+A minecraft swarm and tracker mod
+>>>>>>> branch 'master' of https://github.com/RuinedMango/MCSwarm.git
